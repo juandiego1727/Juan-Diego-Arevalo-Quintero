@@ -4,3 +4,4 @@ Link de tablero en Trello:
 El tablero contiene:
 Tres listas: `To Do`, `In Progress`, `Done`
 Tarjetas representando las etapas del ciclo de vida de software: Requisitos, Desarrollo, Implementación y Pruebas en el ciclo de vida de un software.
+Enlace al video explicativo sobre la solución del desafio https://youtu.be/UsyT-vGzDp0
